@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+header{
+    display: flex;
+}
+
+.navbar{
+    height: 300px;
+    width: 1250px;
+    background-color: bisque;
+    color: blue;
+}
+
+
+
+.box{
+    height:50px;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.home{
+    height:25px;
+    width: 50px;
+    color: blue;
+}
+
+.feat{
+    height:25px;
+    width: 50px;
+    color: blue;
+}
+
+.about{
+    height:25px;
+    width: 50px;
+    color: blue;
+}
+
+.start{
+    height:25px;
+    width: 100px;
+    color: blue;
+}
+
+.Offer{
+    margin-left: 25px;
+}
+
+button{
+    background-color: blue;
+    margin-left: 20px;
+    color: white;
+}
+
+.pen_paper{
+    height: 300px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: 250px 50%;
+}
+
+.features{
+    height:200px;
+    background-color: yellowgreen;
+}
+
+.our_feature{
+    text-align: center;
+
+}
+
+.dwm{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.discussion{
+    width: 200px;
+    height: 150px;
+}
+
+.writing{
+    width: 200px;
+    height: 150px;
+}
+
+.mob_using{
+    width: 200px;
+    height: 150px;
+}
+
+.abc{
+    display: flex;
+    height: 50px;
+    justify-content: space-evenly;
+    background-color: yellowgreen;
+}
+
+.a{
+    height: 25px;
+    width: 150px;
+}
+
+.b{
+    height: 25px;
+    width: 150px;
+}
+
+.c{
+    height: 25px;
+    width: 150px;
+}
+
+.table{
+    height: 175px;
+    width: auto;
+    table-layout: fixed;
+    background-color: white;
+}
+
+.footer{
+    display: flex;
+    height: 150px;
+    justify-content: center;
+    background-color: black;
+    color: white;
+
+}
+
+.Commercial{
+    height: 150px;
+    width: 200px;
+}
+
+.comm{
+    height: 150px;
+    width: 200px;  
+}
